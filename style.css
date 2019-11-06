@@ -1,0 +1,14 @@
+.border-top {
+  border-top: 20px solid rgb(205, 226, 245) !important;
+}
+header,
+footer {
+  min-height: 10vh;
+  border: 3px solid black;
+}
+footer{
+  min-height: 20vh;
+}
+.bg-primary {
+  background-color: rgb(28, 69, 135) !important;
+}
